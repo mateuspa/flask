@@ -11,5 +11,5 @@ def hello():
     return "<p>Hello World Page!</p>"
 
 @app.route('/mateuspa')
-def hello():
+def mateuspa():
     return "<p>Mateuspa Page!</p>"
